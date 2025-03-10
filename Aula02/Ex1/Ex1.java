@@ -1,4 +1,4 @@
-package Aula02;
+package Aula02.Ex1;
 
 public class Ex1 {
     public static void main(String[] args) 
